@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVP_Android_Sample</string>
+    <string name="login">Login</string>
+</resources>
